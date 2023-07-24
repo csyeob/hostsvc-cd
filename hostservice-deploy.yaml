@@ -13,7 +13,7 @@ spec:
     spec:
       containers:
       - name: hostservice-container
-        images: csyeob/node-app:96286f6a6b6576d2d6f82130977880a18b10e222
+        images: csyeob/node-app:7cc684cca456a0c934554aff6652a7bb7de0a1d7
         resources:
           limits:
             memory: "128Mi"
