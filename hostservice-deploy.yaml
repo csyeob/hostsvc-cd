@@ -13,7 +13,7 @@ spec:
     spec:
       containers:
       - name: hostservice-container
-        images: csyeob/hostservice:02114933300874542aba2a4323325b1971ee7cd3
+        image: csyeob/hostservice:ae270ae2c2a0c0b7021a1b1b9474263d5a8a3166
         resources:
           limits:
             memory: "128Mi"
